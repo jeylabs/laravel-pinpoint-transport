@@ -1,0 +1,22 @@
+{
+  "name": "jeylabs/pinpoint-transport",
+  "description": "Laravel Mail Transport for AWS Pinpoint",
+  "type": "library",
+  "require": {
+    "ext-json": "^1.7",
+    "laravel/framework": "^5.8",
+    "aws/aws-sdk-php-laravel": "^3.3"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "S A Sureshkumar",
+      "email": "suresh.ceymplon@jeylabs.com.au"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Jeylabs\\PinpointTransport\\": "src"
+    }
+  }
+}
