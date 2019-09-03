@@ -18,5 +18,7 @@
     "psr-4": {
       "Jeylabs\\PinpointTransport\\": "src"
     }
-  }
+  },
+  "minimum-stability": "dev",
+    "prefer-stable": true
 }
