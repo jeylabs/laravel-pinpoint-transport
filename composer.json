@@ -4,7 +4,7 @@
   "type": "library",
   "require": {
     "ext-json": "*",
-    "aws/aws-sdk-php-laravel": "^3.3"
+    "aws/aws-sdk-php-laravel": "^3"
   },
   "license": "MIT",
   "authors": [
