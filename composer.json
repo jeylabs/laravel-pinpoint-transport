@@ -3,7 +3,7 @@
   "description": "Laravel Mail Transport for AWS Pinpoint",
   "type": "library",
   "require": {
-    "ext-json": "^1.7",
+    "ext-json": "*",
     "aws/aws-sdk-php-laravel": "^3.3"
   },
   "license": "MIT",
